@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: brana-tov
+message: If you use this software, please cite both the software and the paper.
+type: software
+authors:
+  - family-names: dos Santos Júnior
+    given-names: Samuel Isidoro
+    affiliation: Universidade do Estado de Santa Catarina (UDESC)
+  - family-names: de Lima
+    given-names: Rafael Camargo Rodrigues
+    affiliation: Universidade do Estado de Santa Catarina (UDESC)
+  - family-names: Moraes
+    given-names: Pedro Henrique Ribeiro da Silva
+    affiliation: Universidade Cidade de São Paulo
+license: MIT
+repository-code: https://github.com/RafaelCRdeLima/brana-tov
