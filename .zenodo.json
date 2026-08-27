@@ -1,0 +1,32 @@
+{
+  "upload_type": "software",
+  "title": "brana-tov: modified TOV solver and Bayesian inference for compact stars in a large-tension braneworld",
+  "description": "<p>Modified Tolman&ndash;Oppenheimer&ndash;Volkoff solver and Bayesian inference code for compact stars in an effective braneworld model. Integrates the modified TOV system with a local quadratic brane correction and a phenomenological closure for the non-local Weyl sector, parametrised by the brane tension &lambda;, the Weyl coupling &alpha;<sub>U</sub> and the Weyl equation-of-state parameter w<sub>U</sub>. Stellar sequences are compared against NICER and gravitational-wave mass&ndash;radius posteriors through an empirical kernel likelihood, sampled with an affine-invariant ensemble MCMC.</p>",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "dos Santos Júnior, Samuel Isidoro",
+      "affiliation": "Universidade do Estado de Santa Catarina (UDESC)"
+    },
+    {
+      "name": "de Lima, Rafael Camargo Rodrigues",
+      "affiliation": "Universidade do Estado de Santa Catarina (UDESC)"
+    },
+    {
+      "name": "Moraes, Pedro Henrique Ribeiro da Silva",
+      "affiliation": "Universidade Cidade de São Paulo"
+    }
+  ],
+  "keywords": [
+    "neutron stars",
+    "braneworld",
+    "Randall-Sundrum",
+    "equation of state",
+    "Tolman-Oppenheimer-Volkoff",
+    "Bayesian inference",
+    "Markov chain Monte Carlo",
+    "NICER",
+    "gravitational waves"
+  ]
+}
