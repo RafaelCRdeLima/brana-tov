@@ -1,5 +1,8 @@
 # brana-tov
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22126655.svg)](https://doi.org/10.5281/zenodo.22126655)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Modified Tolman–Oppenheimer–Volkoff solver and Bayesian inference code for compact stars
 in an effective braneworld model, as used in
 
